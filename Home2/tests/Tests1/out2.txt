@@ -1,0 +1,6 @@
+Selected container contains 5 elements.
+0: It is Aforizm, input =  I know nothing except the fact of my ignorance. | Socrat. CHASTNOE = 8   AVTOR =  Socrat. 
+1: It is Aforizm, input =  Be as you wish to seem.|Soc,rat. CHASTNOE = 4   AVTOR = Soc,rat. 
+2: It is Zagadka, input =  What is standing under the tree? The,(Present). CHASTNOE = 3.75   OTVET =  The,(Present). 
+3: It is Poslovica, input =  Beri v rabote ymom, a ne gorbom. - Rassia{}. CHASTNOE = 3.33333   STRANA =  Rassia{}. 
+4: It is Poslovica, input =  Rabota durakov lubit. - <<Russia>>. CHASTNOE = 2.4   STRANA =  <<Russia>>. 

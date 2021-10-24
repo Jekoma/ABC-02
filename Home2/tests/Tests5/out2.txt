@@ -1,0 +1,6 @@
+Selected container contains 5 elements.
+0: It is Poslovica, input =  GGssQQ - Fra,nce. CHASTNOE = 4.5   STRANA =  Fra,nce. 
+1: It is Poslovica, input =  GGssQQ - F,ra,nce. CHASTNOE = 3.33333   STRANA =  F,ra,nce. 
+2: It is Poslovica, input =  GGssQQ - F,r,a,nce. CHASTNOE = 2.75   STRANA =  F,r,a,nce. 
+3: It is Poslovica, input =  GGssQQ - F,r,a,n,c,e. CHASTNOE = 2.16667   STRANA =  F,r,a,n,c,e. 
+4: It is Poslovica, input =  GGssQQ - <F<r<a<n<c<e>. CHASTNOE = 1.875   STRANA =  <F<r<a<n<c<e>. 

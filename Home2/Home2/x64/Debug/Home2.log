@@ -1,0 +1,8 @@
+﻿  aforizm.cpp
+C:\Users\iRU\Desktop\Home2\Home2\Home2\aforizm.cpp(19,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  poslovica.cpp
+C:\Users\iRU\Desktop\Home2\Home2\Home2\poslovica.cpp(19,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  zagadka.cpp
+C:\Users\iRU\Desktop\Home2\Home2\Home2\zagadka.cpp(18,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Home2.vcxproj -> C:\Users\iRU\Desktop\Home2\Home2\x64\Debug\Home2.exe

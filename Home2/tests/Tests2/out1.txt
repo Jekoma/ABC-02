@@ -1,0 +1,7 @@
+Filled container:
+Container contains 5 elements.
+0: It is Aforizm, input =  I know nothing except the fact of my ignorance. | Socrat. CHASTNOE = 8   AVTOR =  Socrat. 
+1: It is Aforizm, input =  I know nothing except the fact of my ignorance. | Socrat. CHASTNOE = 8   AVTOR =  Socrat. 
+2: It is Poslovica, input =  Rabota durakov lubit. - <<Russia>>. CHASTNOE = 2.4   STRANA =  <<Russia>>. 
+3: It is Aforizm, input =  I know nothing except the fact of my ignorance. | Socrat. CHASTNOE = 8   AVTOR =  Socrat. 
+4: It is Aforizm, input =  I know nothing except the fact of my ignorance. | Socrat. CHASTNOE = 8   AVTOR =  Socrat. 

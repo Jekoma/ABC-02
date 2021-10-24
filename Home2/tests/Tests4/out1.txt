@@ -1,0 +1,4 @@
+Filled container:
+Container contains 2 elements.
+0: It is Zagadka, input =  WHat iS ThIs ? Abrakadabra. CHASTNOE = 13   OTVET =  Abrakadabra. 
+1: It is Poslovica, input =  GGssQQ - France. CHASTNOE = 8   STRANA =  France. 

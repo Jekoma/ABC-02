@@ -1,0 +1,52 @@
+﻿  aforizm.cpp
+C:\Users\iRU\Desktop\Home1\Home2\Home2\aforizm.cpp(33,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iRU\Desktop\Home1\Home2\Home2\aforizm.cpp(63,27): warning C4018: <: несоответствие типов со знаком и без знака
+  container.cpp
+C:\Users\iRU\Desktop\Home1\Home2\Home2\aforizm.cpp(33,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iRU\Desktop\Home1\Home2\Home2\aforizm.cpp(63,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iRU\Desktop\Home1\Home2\Home2\myrandom.cpp(11,7): error C2084: функция "char *Random(void)" уже имеет текст реализации
+C:\Users\iRU\Desktop\Home1\Home2\Home2\myrandom.cpp(11): message : см. предыдущее определение "Random"
+C:\Users\iRU\Desktop\Home1\Home2\Home2\poslovica.cpp(22,26): error C2065: Random: необъявленный идентификатор
+C:\Users\iRU\Desktop\Home1\Home2\Home2\poslovica.cpp(22,1): error C2109: для индекса требуется массив или указатель
+C:\Users\iRU\Desktop\Home1\Home2\Home2\poslovica.cpp(31,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iRU\Desktop\Home1\Home2\Home2\poslovica.cpp(58,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iRU\Desktop\Home1\Home2\Home2\zagadka.cpp(25,26): error C2065: Random: необъявленный идентификатор
+C:\Users\iRU\Desktop\Home1\Home2\Home2\zagadka.cpp(25,1): error C2109: для индекса требуется массив или указатель
+C:\Users\iRU\Desktop\Home1\Home2\Home2\zagadka.cpp(34,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iRU\Desktop\Home1\Home2\Home2\zagadka.cpp(62,27): warning C4018: <: несоответствие типов со знаком и без знака
+  MAIN.cpp
+C:\Users\iRU\Desktop\Home1\Home2\Home2\aforizm.cpp(33,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iRU\Desktop\Home1\Home2\Home2\aforizm.cpp(63,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iRU\Desktop\Home1\Home2\Home2\myrandom.cpp(11,7): error C2084: функция "char *Random(void)" уже имеет текст реализации
+C:\Users\iRU\Desktop\Home1\Home2\Home2\myrandom.cpp(11): message : см. предыдущее определение "Random"
+C:\Users\iRU\Desktop\Home1\Home2\Home2\poslovica.cpp(22,26): error C2065: Random: необъявленный идентификатор
+C:\Users\iRU\Desktop\Home1\Home2\Home2\poslovica.cpp(22,1): error C2109: для индекса требуется массив или указатель
+C:\Users\iRU\Desktop\Home1\Home2\Home2\poslovica.cpp(31,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iRU\Desktop\Home1\Home2\Home2\poslovica.cpp(58,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iRU\Desktop\Home1\Home2\Home2\zagadka.cpp(25,26): error C2065: Random: необъявленный идентификатор
+C:\Users\iRU\Desktop\Home1\Home2\Home2\zagadka.cpp(25,1): error C2109: для индекса требуется массив или указатель
+C:\Users\iRU\Desktop\Home1\Home2\Home2\zagadka.cpp(34,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iRU\Desktop\Home1\Home2\Home2\zagadka.cpp(62,27): warning C4018: <: несоответствие типов со знаком и без знака
+  poslovica.cpp
+C:\Users\iRU\Desktop\Home1\Home2\Home2\poslovica.cpp(31,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iRU\Desktop\Home1\Home2\Home2\poslovica.cpp(58,27): warning C4018: <: несоответствие типов со знаком и без знака
+  wisdom.cpp
+C:\Users\iRU\Desktop\Home1\Home2\Home2\aforizm.cpp(33,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iRU\Desktop\Home1\Home2\Home2\aforizm.cpp(63,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iRU\Desktop\Home1\Home2\Home2\myrandom.cpp(11,7): error C2084: функция "char *Random(void)" уже имеет текст реализации
+C:\Users\iRU\Desktop\Home1\Home2\Home2\myrandom.cpp(11): message : см. предыдущее определение "Random"
+C:\Users\iRU\Desktop\Home1\Home2\Home2\poslovica.cpp(22,26): error C2065: Random: необъявленный идентификатор
+C:\Users\iRU\Desktop\Home1\Home2\Home2\poslovica.cpp(22,1): error C2109: для индекса требуется массив или указатель
+C:\Users\iRU\Desktop\Home1\Home2\Home2\poslovica.cpp(31,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iRU\Desktop\Home1\Home2\Home2\poslovica.cpp(58,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iRU\Desktop\Home1\Home2\Home2\zagadka.cpp(25,26): error C2065: Random: необъявленный идентификатор
+C:\Users\iRU\Desktop\Home1\Home2\Home2\zagadka.cpp(25,1): error C2109: для индекса требуется массив или указатель
+C:\Users\iRU\Desktop\Home1\Home2\Home2\zagadka.cpp(34,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iRU\Desktop\Home1\Home2\Home2\zagadka.cpp(62,27): warning C4018: <: несоответствие типов со знаком и без знака
+  zagadka.cpp
+C:\Users\iRU\Desktop\Home1\Home2\Home2\zagadka.cpp(34,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\iRU\Desktop\Home1\Home2\Home2\zagadka.cpp(62,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\iRU\Desktop\Home1\Home2\Home2\myrandom.cpp(20): warning C4172: возвращение адреса локальной или временной переменной : s
+C:\Users\iRU\Desktop\Home1\Home2\Home2\myrandom.cpp(20): warning C4172: возвращение адреса локальной или временной переменной : s
+C:\Users\iRU\Desktop\Home1\Home2\Home2\myrandom.cpp(20): warning C4172: возвращение адреса локальной или временной переменной : s

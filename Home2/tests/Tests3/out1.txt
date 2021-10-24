@@ -1,0 +1,7 @@
+Filled container:
+Container contains 5 elements.
+0: It is Zagadka, input =  RANDOM STRING ? XXX. CHASTNOE = 5   OTVET =  XXX. 
+1: It is Poslovica, input =  ASDASD - ({ds}). CHASTNOE = 1.6   STRANA =  ({ds}). 
+2: It is Aforizm, input =  asdasd | a,s,d. CHASTNOE = 2.33333   AVTOR =  a,s,d. 
+3: It is Poslovica, input =  ASDASD - ({ds}). CHASTNOE = 1.6   STRANA =  ({ds}). 
+4: It is Aforizm, input =  asdasd | a,s,d. CHASTNOE = 2.33333   AVTOR =  a,s,d. 
